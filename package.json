@@ -1,6 +1,6 @@
 {
   "name": "react-native-speed-meter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Speedometer Implementation in React Native",
   "main": "index.js",
   "scripts": {
