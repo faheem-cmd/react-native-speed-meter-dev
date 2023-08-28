@@ -16,4 +16,4 @@ npm i react-native-speed-meter
 |              |                  arguments                   | Description                                                                                         |
 | :----------: | :------------------------------------------: | --------------------------------------------------------------------------------------------------- |
 | rotationValueProp |               percent: number between 0-100                | The speed arrow will showing as per the input value. |
-|   onError    | function |                  | Handling invalid input errors      
+|   onError    | function                                       | Handling invalid input errors      
