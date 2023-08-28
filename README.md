@@ -16,4 +16,4 @@ npm i react-native-speed-meter
 |              |                  arguments                   | Description                                                                                         |
 | :----------: | :------------------------------------------: | --------------------------------------------------------------------------------------------------- |
 | rotationValueProp |               percent: number between 0-100                | The speed arrow will showing as per the input value. |
-|   RFValue    | value: number, standardScreenHeight?: number | The font size is calculated based on standardScreenHeight and passed value                          |
+|   onError    | function |                  | Handling invalid input errors      
