@@ -1,0 +1,33 @@
+{
+  "name": "react-native-speed-meter",
+  "version": "1.0.0",
+  "description": "A Speedometer Implementation in React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheem-cmd/react-native-speed-meter-dev.git"
+  },
+  "author": "Muhammed Faheem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheem-cmd/react-native-speed-meter-dev.git/issues"
+  },
+  "homepage": "https://github.com/faheem-cmd/react-native-speed-meter-dev.git#readme",
+  "peerDependencies": {
+    "react-native": ">=0.35",
+    "react": "18.2.0"
+  },
+  "dependencies": {
+    "react-native-responsive-fontsize": "^0.5.1",
+    "react-native-svg": "^13.4.0",
+    "react-native-svg-transformer": "^1.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/react-native": "^12.2.2",
+    "jest": "^29.6.2",
+    "react-test-renderer": "^18.2.0"
+  }
+}
