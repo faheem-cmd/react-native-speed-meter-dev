@@ -2,6 +2,7 @@
 
 ## Installation
 npm i react-native-speed-meter
+
 https://www.npmjs.com/package/react-native-speed-meter
 
 ## Usage
