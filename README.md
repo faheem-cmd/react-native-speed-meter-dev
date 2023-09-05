@@ -6,8 +6,9 @@ npm i react-native-speed-meter
 https://www.npmjs.com/package/react-native-speed-meter
 
 ## Usage
+![Uploading code-snapshot.jpg…]()
 
-![Uploading code-snapshot.png…]()
+
 
 ## Output 
 
