@@ -1,4 +1,4 @@
-# react-native-speed-meter-dev
+# react-native-speed-meter-dev.
 
 ## Installation
 npm i react-native-speed-meter
