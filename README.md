@@ -23,5 +23,5 @@ https://www.npmjs.com/package/react-native-speed-meter
 | rotationValueProp |               percent: number between 0-100                | The speed arrow will showing as per the input value. |
 |   onError    | function                                       | Handling invalid input errors      
 |   showPercentage    | boolean                                       | Show/Hide Percentage default: true
-|   percentageValue    | function                                       | getting the output of percentage.
+|   percentageValue    | function                                       | getting the output of percentage
 
